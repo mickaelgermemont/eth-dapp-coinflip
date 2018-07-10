@@ -16,6 +16,8 @@
 
 ### v0.1 TESTS on Rinkeby
 
-* i mostly always pick heads = true
-* i sent 1.8 eth on rinkeby to Contract 0x3d63f568d937d7a40be9da2b784f2f72d4cd555b  i kept losing
+* i mostly pick true=heads
+* i sent a lot of eth on rinkeby to Contract 0x3d63f568d937d7a40be9da2b784f2f72d4cd555b  i kept losing
+* i thought the code wasnt good and would always pick tails
+* but no, it seems ok now after more tests, i sometimes win and receive funds
 * current contract balance is 900,000,000,000,000,000 wei == 0.9 eth
